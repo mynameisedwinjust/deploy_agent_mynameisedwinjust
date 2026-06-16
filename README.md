@@ -3,10 +3,6 @@
 This repository contains a shell script that automatically builds an **Attendance Tracker Project Factory**. The script creates the project workspace, generates all required files, configures attendance thresholds, verifies system requirements, and safely handles interruptions.
 
 ---
-# Attendance Tracker Bootstrapper
-
-The script (`setup_project.sh`) automatically creates and configures an Attendance Tracker project. It generates the complete directory structure, starter files, and attendance checking system without requiring any external resources.
-
 ## Requirements
 
 * Bash
